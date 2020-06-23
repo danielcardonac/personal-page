@@ -1,0 +1,174 @@
+.parte1{
+  background-color: #dff6f0;
+  position: relative;
+  padding-top: 75px;
+
+}
+
+.parte2{
+  padding: 20px;
+}
+
+.parte3{
+  background-color: #66BFBF;
+  position: relative;
+  padding: 20px;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+
+}
+
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Ma Shan Zheng', cursive;
+  color: #333333;
+
+
+
+}
+
+.pro{
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+
+
+.nube-abajo{
+  position: absolute;
+  bottom: 300px;
+  left:300px;
+}
+
+.nube-arriba{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+h2{
+  font-family: 'Dosis', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+
+}
+
+h3{
+  font-family: 'Dosis', sans-serif;
+  color: #11999E;
+}
+
+.mi-foto{
+  width: 200px;
+  height: 200px;
+  border-radius: 150px;
+  margin-top: 30px;
+}
+
+.imagen-codigo{
+  width:  25%;
+  border-radius: 150px;
+  float: left;
+  margin-right: 30px;
+}
+
+.hacker{
+  width:  300px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+
+}
+
+a{
+  color: #66BFBF;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+
+}
+
+.hacker-1{
+  width:  25%;
+  float: right;
+  margin-left: 10px;
+}
+
+hr {
+  margin-top: 10px;
+  border-style: dotted none none;
+  height: 0;
+  width: 4%;
+  border-width: 5px;
+  border-color: #bcbcbc;
+}
+
+.footer-link{
+  color: #11999E;
+  text-decoration: none;
+  margin: auto 35px auto 35px;
+}
+
+
+.copyright{
+  color: #EAF6F6;
+  margin: 35px auto;
+}
+
+
+
+.contact-me{
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+}
+
+.desc-contacto{
+  text-align: center;
+  padding-bottom: 50px;
+  margin: auto;
+  width: 60%;
+}
+
+.titulo{
+  padding-bottom: 20px;
+}
+
+.mi-descripcion{
+  padding-bottom: 80px;
+}
+
+.h2-ab{
+  margin-top: 100px;
+
+}
+
+.texto1{
+  margin-bottom: 120px;
+
+}
+
+.btn {
+  text-decoration:none;
+  font-weight:600;
+  font-size:20px;
+  color:#EAF6F6;
+  padding:10px 20px 10px 20px;
+  background-color:#66BFBF;
+  border-radius: 50px;
+}
+
+a:hover{
+  color:#EAF6F6;
+}
